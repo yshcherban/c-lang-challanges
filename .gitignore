@@ -1,0 +1,19 @@
+*.o
+*.out
+*.exe
+*.bin
+*.elf
+*.a
+*.so
+example
+
+*.dSYM/
+*.log
+
+*.swp
+*.tmp
+
+# IDE/OS stuff
+.DS_Store
+.vscode/
+*.idea/
